@@ -1,0 +1,6 @@
+sha,2,2
+ram,1,4
+ramit,35,3
+ea,5,5
+ramopy,45,3
+re,23,2
